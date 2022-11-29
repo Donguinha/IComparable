@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IComparablee", "IComparable\IComparablee.csproj", "{FF77B00C-DEAA-492C-B795-FB0B725EE690}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF77B00C-DEAA-492C-B795-FB0B725EE690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF77B00C-DEAA-492C-B795-FB0B725EE690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF77B00C-DEAA-492C-B795-FB0B725EE690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF77B00C-DEAA-492C-B795-FB0B725EE690}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6516BBF3-E924-49B2-BA5A-A722A9CD5250}
+	EndGlobalSection
+EndGlobal

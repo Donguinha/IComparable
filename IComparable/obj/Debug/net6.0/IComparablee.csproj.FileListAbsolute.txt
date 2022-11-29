@@ -1,0 +1,15 @@
+C:\code\IComparable\IComparable\bin\Debug\net6.0\IComparablee.exe
+C:\code\IComparable\IComparable\bin\Debug\net6.0\IComparablee.deps.json
+C:\code\IComparable\IComparable\bin\Debug\net6.0\IComparablee.runtimeconfig.json
+C:\code\IComparable\IComparable\bin\Debug\net6.0\IComparablee.dll
+C:\code\IComparable\IComparable\bin\Debug\net6.0\IComparablee.pdb
+C:\code\IComparable\IComparable\obj\Debug\net6.0\IComparablee.csproj.AssemblyReference.cache
+C:\code\IComparable\IComparable\obj\Debug\net6.0\IComparablee.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\IComparable\IComparable\obj\Debug\net6.0\IComparablee.AssemblyInfoInputs.cache
+C:\code\IComparable\IComparable\obj\Debug\net6.0\IComparablee.AssemblyInfo.cs
+C:\code\IComparable\IComparable\obj\Debug\net6.0\IComparablee.csproj.CoreCompileInputs.cache
+C:\code\IComparable\IComparable\obj\Debug\net6.0\IComparablee.dll
+C:\code\IComparable\IComparable\obj\Debug\net6.0\refint\IComparablee.dll
+C:\code\IComparable\IComparable\obj\Debug\net6.0\IComparablee.pdb
+C:\code\IComparable\IComparable\obj\Debug\net6.0\IComparablee.genruntimeconfig.cache
+C:\code\IComparable\IComparable\obj\Debug\net6.0\ref\IComparablee.dll
